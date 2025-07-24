@@ -2,7 +2,7 @@
 <h3 align="center">—> Learn, Idea and implementation
 —> Fail —> Restart.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MonoaraMoni&label=Profile%20views&color=0e75b6&style=flat" alt="habibur2694" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MonoaraMoni&label=Profile%20views&color=0e75b6&style=flat" alt="MonoaraMoni" /> </p>
 
 - 📫 How to reach me **monoaramoni125@gmail.com**
 
@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/habibur2694" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://github.com/habibur2694" target="_blank">
+<a href="https://github.com/MonoaraMoni" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://twitter.com/" target="_blank">
@@ -84,6 +84,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibur2694&show_icons=true&locale=en&layout=compact" alt="habibur2694" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonoaraMoni&show_icons=true&locale=en&layout=compact" alt="MonoaraMoni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibur2694&show_icons=true&locale=en" alt="habibur2694" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MonoaraMoni&show_icons=true&locale=en" alt="MonoaraMoni" /></p>
