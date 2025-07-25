@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=61571957049900/MonoaraMoni" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://github.com/MonoaraMoni/MonoaraMoni" target="_blank">
+<a href="https://github.com/MonoaraMoni" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
