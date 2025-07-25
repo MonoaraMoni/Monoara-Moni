@@ -10,7 +10,7 @@ else:<br>
 
 - 📫 How to reach me **monoaramoni125@gmail.com**
 
-- **"All praise is due to Allah, and thanks for everything belong to Him."**Allhamdullilah For Everything.
+- **All praise is due to Allah, and thanks for everything belong to Him.Allhamdullilah For Everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
