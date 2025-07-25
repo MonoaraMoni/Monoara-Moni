@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Monoara Moni</h1>
-<h3 align="center">—> if Success() == True:
-    celebrate()
-else:
-    Try_Again()
-    Be_Awesome()
-—> Fail —> Restart.</h3>
+<h3 align="center">—> if Success() == True:<br>
+    celebrate()<br>
+else:<br>
+    Try_Again()<br>
+    Be_Awesome()<br>
+—> Fail —> Restart.</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MonoaraMoni&label=Profile%20views&color=0e75b6&style=flat" alt="MonoaraMoni" /> </p>
 
